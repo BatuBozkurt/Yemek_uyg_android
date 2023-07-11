@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuYatay"
+        android:icon="@drawable/ic_list_white"
+        android:title="Yatay"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menuGrid"
+        android:icon="@drawable/ic_grid_two_white"
+        android:title="Dikey"
+        app:showAsAction="always"  />
+
+    <item
+        android:id="@+id/menuZikZak"
+        android:icon="@drawable/ic_both"
+        android:title="Zik Zak"
+        app:showAsAction="always"    />
+
+</menu>

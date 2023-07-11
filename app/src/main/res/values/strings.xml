@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Yemekbut</string>
+    <string name="urunAdi">Ürün Adı</string>
+    <string name="urunAciklama">Ürün Açıklama</string>
+</resources>
